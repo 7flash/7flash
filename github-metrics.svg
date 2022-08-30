@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 189 repositories
+                            Contributed to 190 repositories
                         </div>
                     </section>
                 </div>
@@ -114,14 +114,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.45017760814636" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="376.45017760814636" y="0" width="26.773485864984888" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="403.2236634731313" y="0" width="20.884724046449435" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="424.10838751958073" y="0" width="18.08119375399111" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="442.18958127357183" y="0" width="6.609635834455477" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.79921710802734" y="0" width="5.113304694292471" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.9125218023198" y="0" width="3.481226625675105" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.39374842799486" y="0" width="2.6062515720051183" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.44780333573203" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="376.44780333573203" y="0" width="26.775347328976093" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="403.2231506647081" y="0" width="20.886176086052146" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="424.10932675076026" y="0" width="18.0824508742354" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="442.1917776249956" y="0" width="6.610095378616549" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.8018730036122" y="0" width="5.110225558285329" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.91209856189744" y="0" width="3.4814686628174325" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.3935672247149" y="0" width="2.6064327752850263" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
